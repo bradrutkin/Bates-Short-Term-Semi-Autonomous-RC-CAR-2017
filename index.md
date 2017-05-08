@@ -15,6 +15,18 @@ Since our last update we have ordered all the parts and successfully taken apart
 Our next goal is to setup our Raspberry Pi to the Bates network. Once that is done we are following this tutotial to control our car using a blue tooth keyboard.
 
 - Tutorial we are using for the seting up the car - [Link](http://www.instructables.com/id/Controlling-a-Raspberry-Pi-RC-Car-With-a-Keyboard/)
+- Other Tutorial we are using for setting up the car - [Link](http://www.instructables.com/id/Raspberry-Pi-2-WiFi-RC-Car/)
 
-Notes: We are being extremely careful to label and track all the screws we are using. Each RC car is different...to do this project we need to be careful with the car and its parts since there is no clear way to take it apart and put it back together 
+Once we took apart the car we started to hookup the L298D chip to the motors and batteries from the car.
 
+    (Insert Photo Here)
+
+As today wraps up our goals are to connect the bluetooth keyboard and the pi to the car. Most of our wires are now set up and good to go. 
+
+
+
+
+
+
+
+Notes: We are being extremely careful to label and track all the screws we are using. Each RC car is different...to do this project we need to be careful with the car and its parts since there is no clear way to take it apart and put it back together. When playing with the batteries becareful with the livewires...if the batter isn't disconnected this could cause a spark'
