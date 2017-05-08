@@ -16,6 +16,7 @@ Our next goal is to setup our Raspberry Pi to the Bates network. Once that is do
 
 - Tutorial we are using for the seting up the car - [Link](http://www.instructables.com/id/Controlling-a-Raspberry-Pi-RC-Car-With-a-Keyboard/)
 - Other Tutorial we are using for setting up the car - [Link](http://www.instructables.com/id/Raspberry-Pi-2-WiFi-RC-Car/)
+- Tutorial with helpful diagrams - [Link](http://forums.parallax.com/discussion/156410/how-to-use-a-l298n-dual-h-bridge-with-a-microcontroller-quickstart-board)
 
 Once we took apart the car we started to hookup the L298D chip to the motors and batteries from the car.
 
