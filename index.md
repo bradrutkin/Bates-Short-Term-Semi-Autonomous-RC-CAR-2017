@@ -10,8 +10,8 @@ This is the first day we have really begun to work on the project. The goal for 
 ### May 8 2017
 Since our last update we have ordered all the parts and successfully taken apart the car. We have taken apart the car so we can control both the motor that turns the front wheels, and the motor that controls forward and reverse.
 
-    (Insert Photo here)
-    
+(Insert Photo here)
+
 Our next goal is to setup our Raspberry Pi to the Bates network. Once that is done we are following this tutotial to control our car using a blue tooth keyboard.
 
 - Tutorial we are using for the seting up the car - [Link](http://www.instructables.com/id/Controlling-a-Raspberry-Pi-RC-Car-With-a-Keyboard/)
@@ -20,14 +20,25 @@ Our next goal is to setup our Raspberry Pi to the Bates network. Once that is do
 
 Once we took apart the car we started to hookup the L298D chip to the motors and batteries from the car.
 
-    (Insert Photo Here)
+(Insert Photo Here)
 
 As today wraps up our goals are to connect the bluetooth keyboard and the pi to the car. Most of our wires are now set up and good to go. 
 
-
-
-
-
-
-
 Notes: We are being extremely careful to label and track all the screws we are using. Each RC car is different...to do this project we need to be careful with the car and its parts since there is no clear way to take it apart and put it back together. When playing with the batteries becareful with the livewires...if the batter isn't disconnected this could cause a spark'
+
+### May 9, 2017
+
+Today we had a breakthrough. We finally configured all the motors, pi and L298D chip. 
+
+(Insert Photo Here)
+
+Once this was done we set up a python file to run each motor for a set period of time. Using this file we can get the car to run the motors using the pi.
+
+- Tutorial we used for code [link](http://deepaksinghviblog.blogspot.com/2014/08/raspberrypi-to-run-dc-motor-using-l298n.html)
+- This tutorial was helpful with the coding but we had to add extra lines for the second motor
+
+The next step is to rebuild the car and set up the sensor.  
+
+Here is a video of Reed running the python file to start each motor. Notice how the motors go in each direction for 3 seconds. 
+
+(Insert Video Here)
