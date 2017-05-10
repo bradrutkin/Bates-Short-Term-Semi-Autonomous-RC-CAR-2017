@@ -42,3 +42,30 @@ The next step is to rebuild the car and set up the sensor.
 Here is a video of Reed running the python file to start each motor. Notice how the motors go in each direction for 3 seconds. 
 
 (Insert Video Here)
+
+### May 10, 2017
+We rebuilt the car...this took a lot of troubleshooting and time, therefore we were limited by what we could accomplish today. The car is now ready to drive using our python script. We corrupted our first SD card so...we will need to buy a new one.
+
+(Insert Photo)
+(Insert Video of Car moving)
+
+This is out GPIO MAP
+
+GPIO pins:
+
+2 red
+4
+6 gray
+8
+10
+12
+14
+16
+1
+3
+5
+7 purple
+9
+11 blue
+13 green
+15 yellow
