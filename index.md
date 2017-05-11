@@ -69,3 +69,15 @@ GPIO pins:
 11 blue
 13 green
 15 yellow
+
+### May 11, 2017
+
+We attached our first sensor to the car. This proved to be extremely challenging because we had to use the bread baord, wires, and resistors.
+
+(Insert some photos)
+
+We are using an HC-SR04 sensor...we are using two main tutorials to hook up the sensor
+- The first is [Linkl(https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
+- The second is [Linkl(https://www.raspberrypi.org/learning/physical-computing-with-python/distance/)
+
+
