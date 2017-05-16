@@ -80,4 +80,22 @@ We are using an HC-SR04 sensor...we are using two main tutorials to hook up the 
 - The first is [Linkl(https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
 - The second is [Linkl(https://www.raspberrypi.org/learning/physical-computing-with-python/distance/)
 
+                ### May 12, 2017 
+                
+                We got the sensor working today using the code in following link. We disconnected the pi from the L298D chip, so that the sensor was the only thing connected to the pi. Once we got the sensor working, we connected the chip back to the pi and made sure that the sensor and motors were working. 
+                
+                [Link](http://www.knight-of-pi.org/ultrasonic-range-detection-with-the-raspberry-pi/)
+
+We are now working on combining both our functions to run them through one script. 
+
+### May 15, 2017
+
+
+Sensor now works while motor is running. However, we encountered some bugs when stopping the program (the wheel was still turning after the program was killed).
+
+In our picar.py file we controlled the car as such.  If object detected using HC-Sr04 sensor within 10cm, the car will reverse.  If object detected within 10-20cm, the car will turn right.  If object detected at a greater than 20cm distance, continue straight.  This worked as anticipated, however we were unable to break out of the while loop.  
+
+To fix this, matt implemented a function which starts/stops the program from running using the keyboard.  We will finalize the object detection tomorrow.  
+
+
 
