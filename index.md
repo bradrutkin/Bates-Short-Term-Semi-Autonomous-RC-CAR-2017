@@ -12,6 +12,7 @@ Since our last update we have ordered all the parts and successfully taken apart
 
 #### Our Raspberry Pi
 ![Image1](/Images/IMG_3613.jpg?raw=true)
+
 #### The car taken apart. Both motors are shown. The larger one controls forward and reverse and the smaller one controls the turning. There is no Brake on the car. The top of the car and the other two wheels are not pictured.
 ![Image1](/Images/IMG_3620.jpg?raw=true)
 
