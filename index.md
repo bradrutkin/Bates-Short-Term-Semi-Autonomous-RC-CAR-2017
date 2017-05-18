@@ -10,7 +10,7 @@ This is the first day we have really begun to work on the project. The goal for 
 ### May 8 2017
 Since our last update we have ordered all the parts and successfully taken apart the car. We have taken apart the car so we can control both the motor that turns the front wheels, and the motor that controls forward and reverse.
 
-(Insert Photo here)
+![Image1](/images/IMG_3613.jpg)
 
 Our next goal is to setup our Raspberry Pi to the Bates network. Once that is done we are following this tutotial to control our car using a blue tooth keyboard.
 
@@ -103,6 +103,10 @@ May 16th was tough because some of our wires started to melt. We spent most of t
 May 17 was a much more successful day. We used the code file test1.py to get the car to run. Using the sensor which is now much more accurate and our newly re-wired motors we were able to get the car to move forward on its on and stop if it detected something infront of the car within 50cm it stops.
 
 [insert video here]
+
+### May 18 
+
+We started re-installing OpenCV. We have had Pi issues and SD card issues. Even though we had worked with Open CV before we had to reinstall it. 
 
 
 
