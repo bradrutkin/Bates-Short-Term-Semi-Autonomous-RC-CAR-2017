@@ -10,7 +10,7 @@ This is the first day we have really begun to work on the project. The goal for 
 ### May 8 2017
 Since our last update we have ordered all the parts and successfully taken apart the car. We have taken apart the car so we can control both the motor that turns the front wheels, and the motor that controls forward and reverse.
 
-![Image1](/Images/IMG_3613.jpg)
+![Image1](/Images/IMG_3613.jpg?raw=true)
 
 
 
