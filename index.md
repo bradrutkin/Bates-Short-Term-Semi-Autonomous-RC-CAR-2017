@@ -77,8 +77,8 @@ We attached our first sensor to the car. This proved to be extremely challenging
 (Insert some photos)
 
 We are using an HC-SR04 sensor...we are using two main tutorials to hook up the sensor
-- The first is [Link](https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
-- The second is [Link](https://www.raspberrypi.org/learning/physical-computing-with-python/distance/)
+- The first is [Link] (https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
+- The second is [Link] (https://www.raspberrypi.org/learning/physical-computing-with-python/distance/)
 
 ### May 12, 2017 
                 
