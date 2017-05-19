@@ -27,6 +27,7 @@ A video of the keyboard turn on each motor in each direction...we can now rebuil
 
 [Video of Our Car Motors](https://www.youtube.com/watch?v=OJA07F00AuQ&feature=youtu.be)
 
+[![Alt text for your video](https://www.youtube.com/watch?v=OJA07F00AuQ&feature=youtu.be)
 
 Notes: We are being extremely careful to label and track all the screws we are using. Each RC car is different...to do this project we need to be careful with the car and its parts since there is no clear way to take it apart and put it back together. When playing with the batteries becareful with the livewires...if the batter isn't disconnected this could cause a spark'
 
