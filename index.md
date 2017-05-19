@@ -24,8 +24,8 @@ Our next goal is to setup our Raspberry Pi to the Bates network. Once that is do
 Once we took apart the car we started to hookup the L298D chip to the motors and batteries from the car. This allowed us to control the motors with our keyboard
 
 A video of the keyboard turn on each motor in each direction...we can now rebuild the car and control it with python programs 
-![Image1](/Images/IMG_3638.mv4?raw=true)
 
+[Video of Our Car Motors](https://www.youtube.com/watch?v=OJA07F00AuQ&feature=youtu.be)
 
 
 Notes: We are being extremely careful to label and track all the screws we are using. Each RC car is different...to do this project we need to be careful with the car and its parts since there is no clear way to take it apart and put it back together. When playing with the batteries becareful with the livewires...if the batter isn't disconnected this could cause a spark'
