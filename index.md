@@ -54,7 +54,7 @@ We rebuilt the car...this took a lot of troubleshooting and time, therefore we w
 
 Everything hooked up before we rebuild the car
 
-![Image1](/Images/Pictures/IMG_8849.jpg?raw=true)
+![Image1](/Images/pictures/IMG_8849.jpg?raw=true)
 
 This is out GPIO MAP
 
