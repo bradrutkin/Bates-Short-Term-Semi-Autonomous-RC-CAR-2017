@@ -35,9 +35,6 @@ Notes: We are being extremely careful to label and track all the screws we are u
 
 Today we had a breakthrough. We finally configured all the motors, pi and L298D chip. 
 
-A video of the keyboard turn on each motor in each direction...we can now rebuild the car and control it with python programs 
-
-[Video of Our Car Motors](https://www.youtube.com/watch?v=OJA07F00AuQ&feature=youtu.be)
 
 Once this was done we set up a python file to run each motor for a set period of time. Using this file we can get the car to run the motors using the pi.
 
@@ -46,15 +43,18 @@ Once this was done we set up a python file to run each motor for a set period of
 
 The next step is to rebuild the car and set up the sensor.  
 
-Here is a video of Reed running the python file to start each motor. Notice how the motors go in each direction for 3 seconds. 
 
-(Insert Video Here)
+A video of the keyboard turn on each motor in each direction...we can now rebuild the car and control it with python programs 
+
+[Video of Our Car Motors](https://www.youtube.com/watch?v=OJA07F00AuQ&feature=youtu.be)
 
 ### May 10, 2017
 We rebuilt the car...this took a lot of troubleshooting and time, therefore we were limited by what we could accomplish today. The car is now ready to drive using our python script. We corrupted our first SD card so...we will need to buy a new one.
 
-(Insert Photo)
-(Insert Video of Car moving)
+
+Everything hooked up before we rebuild the car
+
+![Image1](/Images/Pictures/IMG_8849.jpg?raw=true)
 
 This is out GPIO MAP
 
@@ -79,9 +79,13 @@ GPIO pins:
 
 ### May 11, 2017
 
-We attached our first sensor to the car. This proved to be extremely challenging because we had to use the bread baord, wires, and resistors.
+We attached our first sensor to the car. This proved to be extremely challenging because we had to use the breadboard, wires, and resistors. This was new territory for me...Reed, Priyanka and Matt really took charge with this portion of the project.
 
-(Insert some photos)
+This is our breadboard with everything attached 
+![Image1](/Images/IMG_3652.jpg?raw=true)
+
+A close up of our Pi with the wires attached 
+![Image1](/Images/Pictures/IMG_8866.jpg?raw=true)
 
 We are using an HC-SR04 sensor...we are using two main tutorials to hook up the sensor
 - The first is [Link] (https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi)
@@ -109,11 +113,20 @@ May 16th was tough because some of our wires started to melt. We spent most of t
 
 May 17 was a much more successful day. We used the code file test1.py to get the car to run. Using the sensor which is now much more accurate and our newly re-wired motors we were able to get the car to move forward on its on and stop if it detected something infront of the car within 50cm it stops.
 
-[insert video here]
 
-### May 18 
 
-We started re-installing OpenCV. We have had Pi issues and SD card issues. Even though we had worked with Open CV before we had to reinstall it. 
+### May 18 and May 19
+
+We started re-installing OpenCV. We have had Pi issues and SD card issues. Even though we had worked with Open CV before we had to reinstall it. Installing it took most of the day...we spent time desinging the car so everything is more secure 
+
+
+## Conclusion 
+
+In conclusion we had trouble getting openCV to work. Our car was able to use the sensor to stop if it sensed an object in front of it. This project still has a lot of fine tuning that needs to be done. Our group page has more documentation on how to do this your self, the prices of all the object and more photos and videos.
+
+Here is a final video of our car stoping in front of a trash can
+
+[A small clip of our car driving semi-autonomously](https://youtu.be/F5Y3YCBHOJU)
 
 
 
