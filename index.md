@@ -10,9 +10,11 @@ This is the first day we have really begun to work on the project. The goal for 
 ### May 8 2017
 Since our last update we have ordered all the parts and successfully taken apart the car. We have taken apart the car so we can control both the motor that turns the front wheels, and the motor that controls forward and reverse.
 
+Our Raspberry Pi
 ![Image1](/Images/IMG_3613.jpg?raw=true)
 
-
+Our car taken apart...
+![Image1](/Images/IMG_3620.jpg?raw=true)
 Our next goal is to setup our Raspberry Pi to the Bates network. Once that is done we are following this tutotial to control our car using a blue tooth keyboard.
 
 - Tutorial we are using for the seting up the car - [Link](http://www.instructables.com/id/Controlling-a-Raspberry-Pi-RC-Car-With-a-Keyboard/)
